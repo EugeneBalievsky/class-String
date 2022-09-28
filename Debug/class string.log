@@ -1,7 +1,13 @@
 ﻿  main.cpp
-C:\Users\TS\source\repos\class string\class string\main.cpp(43,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\TS\source\repos\class string\class string\main.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\TS\source\repos\class string\class string\main.cpp(58,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\TS\source\repos\class string\class string\main.cpp(68,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\TS\source\repos\class string\class string\main.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
-  class string.vcxproj -> C:\Users\TS\source\repos\class string\Debug\class string.exe
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(63,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(71,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(81,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(100,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(118,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(139,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(142,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(152,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\EVGENE\source\repos\class-String-main\class-String-main\main.cpp(96): warning C4172: возвращение адреса локальной или временной переменной : new_string
+  class string.vcxproj -> C:\Users\EVGENE\source\repos\class-String-main\class-String-main\Debug\class string.exe
